@@ -1,3 +1,3 @@
-export default function About() {
-    return <div>about</div>
-}
+export default function Blog() {
+    return <div>Blog</div>
+} 
