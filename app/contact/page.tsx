@@ -1,3 +1,11 @@
+import Link from "next/link"
+
 export default function Contact() {
-    return <div>Contact Form</div>
+    return  (
+    <div>
+        <h1>Contact</h1>
+        <Link href="/">Home</Link>
+        <Link href={'/blog/${post.title}'}>Post</Link>
+    </div>
+    )
 } 
