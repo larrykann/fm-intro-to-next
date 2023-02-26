@@ -1,8 +1,8 @@
 const HeaderLink = () => {
     return (
-        <header>
-            Logo
-        </header>
+        <div>
+            Header Link
+        </div>
     )
 }
 
